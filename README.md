@@ -1,2 +1,2 @@
 # mathematical-model-algorithms
-simple genetic algorithm, Prim-Minimum Spanning Tree
+Simple genetic algorithm, Prim-Minimum Spanning Tree
